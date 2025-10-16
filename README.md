@@ -1,2 +1,2 @@
-# anastasiaqa.github.io
+# anastasiaqa.github.com
 Сайт визитка HTML, CSS
